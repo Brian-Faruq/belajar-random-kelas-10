@@ -1,1 +1,1 @@
-# belajar-random-kelas-10
+mempelajari teknologi yang baru ataupun yang menarik
