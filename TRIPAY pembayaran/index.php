@@ -99,3 +99,5 @@
 
 </body>
 </html>
+
+<!-- fungsi teknologi ini untuk mempermuddah metode pembayaran dengan memiliki beberapa metode pembayaran bank -->
